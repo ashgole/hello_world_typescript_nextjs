@@ -5,7 +5,7 @@
 <a href="https://www.ashabb.com" target="_blank"> We offer freelance web development using <br/> MERN, NextJS and ThreeJS.</a>
 </h1>
 
-# 📖💻 We are learning typescript
+### 📖💻 We are learning typescript 16-11-24
 
 In this repo we are going to cover all typescript. and also we are going to create small Project called *Hotel Booking app* .
 
